@@ -1,7 +1,9 @@
 {
   "name": "bowling-kata",
   "scripts": {
-    "start": "node bin/www"
+    "start": "node bin/www",
+    "pretest": "tsc tests/spec/*.spec.ts --module commonjs",
+    "test": "mocha tests/spec/"
   },
   "version": "0.0.0",
   "description": "",
