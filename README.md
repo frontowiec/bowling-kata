@@ -8,7 +8,7 @@ Aplikacja nie zapewnia:
 * wyników dla pośrednich rund
 
 ## Reguły domenowe
-* Każda gra składa się z 10 `ramek (frame)` każda ramka z dwóch `rzutów (throw)`.
+* Każda gra składa się z 10 `rund/ramek (frame)` każda ramka z dwóch `rzutów (throw)`.
 * W każdym rzucie `gracz (bowler)` stara się strącić wszystkie `kręgle (pins)`.
 * Jeśli gracz w pierwszym rzucie strąci wszystkie kręgle runda jest zakończona, a jego wynikiem jest tzw. `strike` w którym gracz otrzymuje 10 punktów plus liczba punktów równa liczbie kręgli strąconych w dwóch następnych rzutach.
 * Jeśli gracz strąci wszystkie kręgle w drugim rzucie to runda jest zakończona, a jego wynikiem jest tzw. `spare` w którym gracz otrzymuje 10 punktów plus liczba punktów równa liczbie kręgli strąconych w następnym rzucie.
